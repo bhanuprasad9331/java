@@ -8,7 +8,7 @@ public class MainApp {
     private static final long serialVersionUID = 1L;  
     
     private static void createAndShowGUI() {  
-  
+    	System.out.println("hi");
         // Create and set up the window.  
         final JFrame frame = new JFrame("Scroll Pane Example");  
   
